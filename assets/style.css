@@ -1,0 +1,164 @@
+.navbar-brand{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:teal;
+    color:white;
+     width:200px;
+}
+#name{
+    color:white;
+}
+
+.navbar{
+    padding:50px;
+   opacity: 0%;
+}
+
+.quote{
+    color:white;
+    font-size: 25px;
+}
+
+body{
+    background-image: url("/Users/pintor/Desktop/GIT/Basic-Portfolio/assets/images/united-squares-negative.png");
+    margin: 0 auto;
+    height:100%;
+}
+
+h1{
+    color:teal;
+    font-size: 35px;
+    padding-top:3%;
+    padding-left:3%;
+}
+
+li{
+    color: teal;
+}
+
+.selfie{
+    float: left;
+    width:375px;
+    height: 300px;
+    padding-right: 3%;
+    padding-top:3%;
+}
+
+p{
+    color: #777777;
+    line-height: 2;
+    padding-top: 2%;
+}
+
+.AboutMe, #ContactMe, #Portfolio {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
+    height:815px;
+    margin: 0% auto;
+    background-color: #ffffff;
+    border-color: #dddddd;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+
+/* ___________________ */
+.images{
+    width:960px;
+    height: 815px;
+    margin: 0 auto;
+   background-color: #ffffff;
+  
+}
+
+
+
+.HMan{
+    background-color:teal;
+    color:white;
+    text-align: center;
+    padding:1%;
+    width:60.8%;
+    top:25%;
+    position: absolute;
+}
+
+.Trivia{ 
+    background-color:teal;
+    color:white;
+    text-align: center;
+    padding:1%;
+    width:30.4%;
+    top:25%;
+    position: absolute;
+}
+
+.RPGame{
+    position: absolute;
+    text-align: center;
+    padding:1%;
+    background-color:teal;
+    color:white;
+    top:59.6%; 
+    width:60.8%;  
+}
+
+.Rutgers{ 
+    position: absolute;
+    text-align: center;
+    padding:1%;
+    background-color:teal;
+    color:white;
+    top:59.6%; 
+    width:30.4%;  
+    }
+
+.RPS{
+    background-color:teal;
+    color:white;
+    text-align: center;
+    padding:1%;
+    width:60.8%;
+    top:94.5%;
+    position: absolute;
+      
+}
+
+hr {
+    color:white;
+    border:5px;
+}
+
+/* ___________ */
+
+.ContactMe{
+    width:960px;
+    height: 815px;
+    margin: 0 auto;
+   background-color: #ffffff;
+}
+
+.display-4, .lead, .my-4 {
+    color:white;
+}
+
+
+
+.input-group-prepend{
+    width:200px;
+}
+
+
+
+
+.footer{
+    background-color: #666666;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    width:100%;
+    margin-top:25px;;
+    color: white;
+    border-top: 5px;
+    border-style: solid;
+    border-color: teal; 
+}
